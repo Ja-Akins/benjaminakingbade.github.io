@@ -3516,8 +3516,8 @@ input, select, textarea {
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		height: 12rem;
-		padding-bottom: 3rem;
+		height: auto;
+		padding-bottom: 2rem;
 		position: relative;
 		text-align: center;
 		z-index: 2;
@@ -4688,3 +4688,4 @@ input, select, textarea {
 		}
 
 	}
+
